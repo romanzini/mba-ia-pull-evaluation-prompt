@@ -48,7 +48,13 @@ Durante a refatoracao do prompt eu optei por combinar tecnicas que melhoravam do
 
 Se o dashboard principal exigir autenticacao, os links publicos de dataset e traces logo abaixo podem ser usados como evidencia publica da entrega.
 
+### Captura da subida do prompt
+
+![Subida do prompt](docs/assets/subida_prompt.png)
+
 ### Captura da avaliacao final
+
+![Resultado da avaliacao](docs/assets/resultado_avaliação.png)
 
 ![Avaliacao final aprovada](docs/assets/final-evaluation.svg)
 
